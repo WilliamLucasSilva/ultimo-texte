@@ -1,0 +1,58 @@
+.centro{
+				text-align: center;
+				font-size:  30px;
+			}
+
+.botao{
+
+	background-color: #F1FC50;
+
+	border-radius:  5xp;
+
+	padding:  10px 25px;
+
+	font-family:  arial, helvetica, sans-serif;
+
+	font-size:  12 px;
+
+	text-decoration:  none;
+
+	color: ;
+
+	user-select: none;
+
+	cursor: pointer;
+
+	transition:0,8s;
+
+	}
+
+	.botao:hover{
+		background-color: #EFFF00;
+	}
+
+	.titulo{
+		font-size: 50px;
+		text-align: center;
+		color: orange;
+	}
+
+    		
+	}
+
+
+.imagem{
+	list-style: none;
+
+	display:  flex;
+
+	justify-content:  space-around;
+
+}
+
+.box{
+	padding:  50px 90px
+	background: #B8EB2C;
+	margin: 0 auto 20 px auto;
+	user-select: none;
+}
